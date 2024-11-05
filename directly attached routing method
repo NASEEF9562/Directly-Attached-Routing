@@ -1,0 +1,10 @@
+This network topology demonstrates the directly attached routing method, set up in Cisco Packet Tracer to illustrate simple routing principles. Key features of this setup include:
+
+Directly Connected Routes Only:
+This configuration focuses on directly attached routing, where each router only knows about the networks directly connected to its interfaces. This method is useful for small-scale networks and learning the basics of routing without the complexity of static or dynamic routes.
+
+Minimalist Design:
+With only two routers and two segments, this topology is designed to be straightforward, allowing for a clear understanding of direct connectivity and basic packet forwarding principles.Interface Configuration: Both routers have GigabitEthernet interfaces configured for direct connections between them, as well as connections to their respective local switches. The interface IPs are configured to match the subnet of each connected network.
+
+Learning Objective:
+This topology is ideal for beginners looking to understand the fundamentals of routing on directly connected networks, IP addressing, and packet forwarding between directly connected routers.
